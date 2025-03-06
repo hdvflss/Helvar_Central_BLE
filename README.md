@@ -3,6 +3,8 @@
 
 This repository contains the code for a central Bluetooth device developed as part of a project with Helvar. The device is designed to interact with a custom-built light sensor that advertises its data via Bluetooth Low Energy (BLE).
 
+The repository for the main device can be found at: https://github.com/ArtemKIA/Helvar-Seeing-the-Light
+
 ## Project Overview
 
 The project with Helvar focuses on developing a light sensor which advertise its measurement using BLE technology. The central device, implemented using the Zephyr RTOS, acts as a Bluetooth beacon scanner that specifically targets the BLE-enabled light sensor. The sensor advertises key light metrics, which the central device decrypts and processes.
