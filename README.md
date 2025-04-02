@@ -1,9 +1,7 @@
 
 # Central Bluetooth Device for Light Sensor Data Collection
 
-This repository contains the code for a central Bluetooth device developed as part of a project with Helvar. The device is designed to interact with a custom-built light sensor that advertises its data via Bluetooth Low Energy (BLE).
-
-The repository for the main device can be found at: https://github.com/ArtemKIA/Helvar-Seeing-the-Light
+This repository contains only the code for a central Bluetooth device developed as part of a project with Helvar. The device is designed to interact with a custom-built light sensor that advertises its data via Bluetooth Low Energy (BLE). The repository for the main device, where I am also a contributor, can be found at: https://github.com/ArtemKIA/Helvar-Seeing-the-Light. 
 
 ## Project Overview
 
